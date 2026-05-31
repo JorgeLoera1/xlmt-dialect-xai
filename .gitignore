@@ -1,0 +1,45 @@
+# Entornos virtuales
+dialectos_entorno/
+dialectos_entorno_311/
+venv/
+env/
+.env/
+
+# Pesos del modelo y outputs de entrenamiento (usar HuggingFace Hub)
+model_outputs/
+xlmt_lora_dialectos/
+modelo_final/
+modelo_merged/
+checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Dataset (usar HuggingFace Datasets)
+*.parquet
+*.csv
+*.tsv
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ejecutables y binarios
+*.exe
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
