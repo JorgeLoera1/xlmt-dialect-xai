@@ -1,4 +1,4 @@
-# Clasificación de Variedad Dialectal del Español en Twitter con Explicabilidad Post-Hoc
+# Modelos de clasificación de texto con un enfoque de explicabilidad
 
 Reporte Técnico — Estancia de consultoria MCE 2026  
 **Autor:** Jorge Antonio Loera Grande
