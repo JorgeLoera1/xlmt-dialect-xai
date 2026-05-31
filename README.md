@@ -1,6 +1,6 @@
 # Clasificación de Variedad Dialectal del Español en Twitter con Explicabilidad Post-Hoc
 
-Reporte Técnico — Estancia de Investigación MCE 2026  
+Reporte Técnico — Estancia de consultoria MCE 2026  
 **Autor:** Jorge Antonio Loera Grande
 
 ---
